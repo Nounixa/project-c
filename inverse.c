@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int nbr,nbrinv=0,tmp;
+    int nbr,nbrinv=0;
     printf("***********\n");
     printf("entrer un nombre qui se compose de trois chiffre \n");
     scanf("%d",&nbr);
